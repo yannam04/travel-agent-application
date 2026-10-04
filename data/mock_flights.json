@@ -1,0 +1,222 @@
+[
+  {
+    "id": "F001",
+    "airline": "United Airlines",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 480,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-11",
+    "stops": 1,
+    "duration_hours": 19.5
+  },
+  {
+    "id": "F002",
+    "airline": "Air India",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 620,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-11",
+    "stops": 1,
+    "duration_hours": 18.0
+  },
+  {
+    "id": "F003",
+    "airline": "Lufthansa",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 710,
+    "depart_date": "2026-09-12",
+    "arrival_date": "2026-09-13",
+    "stops": 2,
+    "duration_hours": 22.0
+  },
+  {
+    "id": "F004",
+    "airline": "Emirates",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 495,
+    "depart_date": "2026-09-14",
+    "arrival_date": "2026-09-15",
+    "stops": 1,
+    "duration_hours": 20.5
+  },
+  {
+    "id": "F005",
+    "airline": "Qatar Airways",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 545,
+    "depart_date": "2026-09-11",
+    "arrival_date": "2026-09-12",
+    "stops": 1,
+    "duration_hours": 19.0
+  },
+  {
+    "id": "F006",
+    "airline": "American Airlines",
+    "origin": "India",
+    "destination": "New York",
+    "price_usd": 460,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-11",
+    "stops": 1,
+    "duration_hours": 17.5
+  },
+  {
+    "id": "F007",
+    "airline": "Delta Air Lines",
+    "origin": "India",
+    "destination": "New York",
+    "price_usd": 530,
+    "depart_date": "2026-09-13",
+    "arrival_date": "2026-09-14",
+    "stops": 1,
+    "duration_hours": 18.0
+  },
+  {
+    "id": "F008",
+    "airline": "British Airways",
+    "origin": "India",
+    "destination": "San Francisco",
+    "price_usd": 590,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-11",
+    "stops": 1,
+    "duration_hours": 21.0
+  },
+  {
+    "id": "F009",
+    "airline": "Turkish Airlines",
+    "origin": "India",
+    "destination": "San Francisco",
+    "price_usd": 675,
+    "depart_date": "2026-09-15",
+    "arrival_date": "2026-09-16",
+    "stops": 2,
+    "duration_hours": 24.5
+  },
+  {
+    "id": "F010",
+    "airline": "United Airlines",
+    "origin": "India",
+    "destination": "Boston",
+    "price_usd": 505,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-11",
+    "stops": 1,
+    "duration_hours": 18.5
+  },
+  {
+    "id": "F011",
+    "airline": "Air France",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 399,
+    "depart_date": "2026-09-20",
+    "arrival_date": "2026-09-21",
+    "stops": 2,
+    "duration_hours": 23.0
+  },
+  {
+    "id": "F012",
+    "airline": "KLM",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 450,
+    "depart_date": "2026-09-18",
+    "arrival_date": "2026-09-19",
+    "stops": 1,
+    "duration_hours": 20.0
+  },
+  {
+    "id": "F013",
+    "airline": "Ethiopian Airlines",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 375,
+    "depart_date": "2026-09-25",
+    "arrival_date": "2026-09-26",
+    "stops": 2,
+    "duration_hours": 25.0
+  },
+  {
+    "id": "F014",
+    "airline": "Etihad Airways",
+    "origin": "India",
+    "destination": "Los Angeles",
+    "price_usd": 615,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-11",
+    "stops": 1,
+    "duration_hours": 20.5
+  },
+  {
+    "id": "F015",
+    "airline": "Singapore Airlines",
+    "origin": "India",
+    "destination": "Chicago",
+    "price_usd": 825,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-11",
+    "stops": 1,
+    "duration_hours": 21.5
+  },
+  {
+    "id": "F016",
+    "airline": "Singapore Airlines",
+    "origin": "Singapore",
+    "destination": "India",
+    "price_usd": 320,
+    "depart_date": "2026-09-10",
+    "arrival_date": "2026-09-10",
+    "stops": 0,
+    "duration_hours": 5.5
+  },
+  {
+    "id": "F017",
+    "airline": "IndiGo",
+    "origin": "Singapore",
+    "destination": "India",
+    "price_usd": 280,
+    "depart_date": "2026-09-12",
+    "arrival_date": "2026-09-12",
+    "stops": 0,
+    "duration_hours": 5.0
+  },
+  {
+    "id": "F018",
+    "airline": "Scoot",
+    "origin": "Singapore",
+    "destination": "India",
+    "price_usd": 210,
+    "depart_date": "2026-09-15",
+    "arrival_date": "2026-09-15",
+    "stops": 1,
+    "duration_hours": 7.5
+  },
+  {
+    "id": "F019",
+    "airline": "Qatar Airways",
+    "origin": "Singapore",
+    "destination": "India",
+    "price_usd": 450,
+    "depart_date": "2026-09-11",
+    "arrival_date": "2026-09-12",
+    "stops": 1,
+    "duration_hours": 8.0
+  },
+  {
+    "id": "F020",
+    "airline": "Air India",
+    "origin": "Singapore",
+    "destination": "India",
+    "price_usd": 350,
+    "depart_date": "2026-09-14",
+    "arrival_date": "2026-09-14",
+    "stops": 0,
+    "duration_hours": 5.5
+  }
+]
